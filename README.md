@@ -15,7 +15,7 @@ This project analyzes socioeconomic factors influencing home values across Arizo
 
 Technologies Used
 
-- Python (Pandas, NumPy, Scikit-Learn, Matplotlib)
+- Python (Pandas, seaborn, Scikit-Learn, Matplotlib)
 - Power BI Desktop
 - Google Colab
 - GitHub for version control
